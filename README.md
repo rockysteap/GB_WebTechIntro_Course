@@ -1,6 +1,7 @@
 # GB_WebTechIntro_Course
 GeekBrains - Intro to Web Technologies - Course
 
+Семинар 1
 1. Определите, на каком протоколе работает сайт youtube.com. 
 Сделайте скриншот с названием 1_protocol.jpg, по которому станет понятно, как вы определили протокол сайта.
 
