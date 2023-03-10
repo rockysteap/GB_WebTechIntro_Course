@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(164, 174, 170);
+}
+.body-content {
+    max-width: 800px;
+    margin: auto;
+    font-family: verdana;
+    font-size: 17px;
+    text-align: justify;
+}
+.img-right {
+    width: 440px;
+    float: right;
+    padding-left: 10px;
+}
+.img-left {
+    width: 440px;
+    float: left;
+    padding-right: 10px;
+}
+.img-center {
+    width: 800px;
+}
