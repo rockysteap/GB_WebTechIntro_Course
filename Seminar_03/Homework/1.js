@@ -1,3 +1,3 @@
-const temp_c = Number.parseInt(prompt("Введите температуру в градусах по Цельсию "));
-const temp_f = (9 / 5) * temp_c + 32
-alert(`Цельсий: ${temp_c}, Фаренгейт: ${temp_f.toFixed(1)}`)
+const tempC = Number.parseFloat(prompt("Введите температуру в градусах по Цельсию "));
+const tempF = (9 / 5) * tempC + 32;
+alert(`Цельсий: ${tempC}, Фаренгейт: ${tempF.toFixed(1)}`);
